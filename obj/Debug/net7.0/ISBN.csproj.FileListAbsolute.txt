@@ -1,0 +1,15 @@
+D:\proyectos\C#\ISBN\bin\Debug\net7.0\ISBN.dll
+D:\proyectos\C#\ISBN\bin\Debug\net7.0\ISBN.exe
+D:\proyectos\C#\ISBN\bin\Debug\net7.0\ISBN.deps.json
+D:\proyectos\C#\ISBN\bin\Debug\net7.0\ISBN.runtimeconfig.json
+D:\proyectos\C#\ISBN\bin\Debug\net7.0\ISBN.pdb
+D:\proyectos\C#\ISBN\obj\Debug\net7.0\ISBN.csproj.AssemblyReference.cache
+D:\proyectos\C#\ISBN\obj\Debug\net7.0\ISBN.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\C#\ISBN\obj\Debug\net7.0\ISBN.AssemblyInfoInputs.cache
+D:\proyectos\C#\ISBN\obj\Debug\net7.0\ISBN.AssemblyInfo.cs
+D:\proyectos\C#\ISBN\obj\Debug\net7.0\ISBN.csproj.CoreCompileInputs.cache
+D:\proyectos\C#\ISBN\obj\Debug\net7.0\ISBN.dll
+D:\proyectos\C#\ISBN\obj\Debug\net7.0\refint\ISBN.dll
+D:\proyectos\C#\ISBN\obj\Debug\net7.0\ISBN.pdb
+D:\proyectos\C#\ISBN\obj\Debug\net7.0\ISBN.genruntimeconfig.cache
+D:\proyectos\C#\ISBN\obj\Debug\net7.0\ref\ISBN.dll
