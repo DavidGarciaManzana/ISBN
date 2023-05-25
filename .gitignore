@@ -1,0 +1,59 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.userprefs
+*.suo
+*.csproj.user
+
+# Visual Studio files
+.vs/
+*.sln
+*.suo
+*.user
+*.bak
+*.cache
+
+# Resharper files
+_ReSharper*/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# MSTest test Results
+TestResults/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+
+# .NET Core
+project.lock.json
+project.assets.json
+
+# Misc
+[Tt]humbs.db
+*.log
+*.vspscc
+*.vssscc
+*.[Cc]ache
+*.bak
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+*.publishproj
+*.rnd
+*.svclog
+*.tlog
+*.vspx
+*.publishsettings
+*.pubxml
+*.publishproj
